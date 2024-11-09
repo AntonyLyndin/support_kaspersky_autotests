@@ -4,4 +4,3 @@ class SupportPage:
 
     def test_warning_aplay(self):
         pass
-
