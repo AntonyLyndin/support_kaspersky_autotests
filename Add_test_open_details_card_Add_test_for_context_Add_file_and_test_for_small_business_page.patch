@@ -1,0 +1,23 @@
+Subject: [PATCH] Add test open details card
+Add test for context
+Add file and test for small business page
+---
+Index: tests/test_help_small_business.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tests/test_help_small_business.py b/tests/test_help_small_business.py
+new file mode 100644
+--- /dev/null	(revision ac7ca6a81b09ef03e57bbf0a6cbc2b0233a153e5)
++++ b/tests/test_help_small_business.py	(revision ac7ca6a81b09ef03e57bbf0a6cbc2b0233a153e5)
+@@ -0,0 +1,9 @@
++class TestHelpSmallBusinessPage:
++    def test_toolbar_main(self):
++        pass
++
++    def test_context_menu(self):
++        pass
++
++    def test_open_details_card(self):
++        pass
