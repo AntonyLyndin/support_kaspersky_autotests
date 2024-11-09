@@ -4,3 +4,6 @@ class SupportPage:
 
     def test_warning_aplay(self):
         pass
+
+    def test_context_menu(self):
+        pass
